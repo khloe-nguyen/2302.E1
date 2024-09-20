@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.15">
   <diagram name="Page-1" id="iBDs6v3_dnTy8JfgTPV6">
-    <mxGraphModel dx="1599" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1960" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,13 +400,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i3HwclaHCyX3nu9L8ep4-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-1080" width="80" height="80" as="geometry" />
+          <mxGeometry x="-720" y="-1070" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i3HwclaHCyX3nu9L8ep4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3HwclaHCyX3nu9L8ep4-2" target="i3HwclaHCyX3nu9L8ep4-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i3HwclaHCyX3nu9L8ep4-2" value="Create account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="-1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="-580" y="-1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3HwclaHCyX3nu9L8ep4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3HwclaHCyX3nu9L8ep4-4" target="i3HwclaHCyX3nu9L8ep4-6">
           <mxGeometry relative="1" as="geometry" />
@@ -420,7 +420,7 @@
         <mxCell id="i3HwclaHCyX3nu9L8ep4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3HwclaHCyX3nu9L8ep4-6" target="i3HwclaHCyX3nu9L8ep4-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i3HwclaHCyX3nu9L8ep4-6" value="Email is correct" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="i3HwclaHCyX3nu9L8ep4-6" value="Email is&amp;nbsp;&lt;div&gt;valid&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="-831" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i3HwclaHCyX3nu9L8ep4-8" value="Show error message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -430,10 +430,37 @@
           <mxGeometry x="-473" y="-815" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3HwclaHCyX3nu9L8ep4-13" value="Create account successfully" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="-669" width="120" height="60" as="geometry" />
+          <mxGeometry x="-580" y="-701" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3HwclaHCyX3nu9L8ep4-15" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-523" y="-710" width="40" height="30" as="geometry" />
+          <mxGeometry x="-526" y="-746" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3HwclaHCyX3nu9L8ep4-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3HwclaHCyX3nu9L8ep4-17" target="i3HwclaHCyX3nu9L8ep4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3HwclaHCyX3nu9L8ep4-17" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i3HwclaHCyX3nu9L8ep4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3HwclaHCyX3nu9L8ep4-18" target="i3HwclaHCyX3nu9L8ep4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3HwclaHCyX3nu9L8ep4-18" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3HwclaHCyX3nu9L8ep4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3HwclaHCyX3nu9L8ep4-20" target="i3HwclaHCyX3nu9L8ep4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3HwclaHCyX3nu9L8ep4-20" value="Email&lt;div&gt;Password&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3HwclaHCyX3nu9L8ep4-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3HwclaHCyX3nu9L8ep4-22" target="i3HwclaHCyX3nu9L8ep4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3HwclaHCyX3nu9L8ep4-22" value="Email/Password is correct" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-800" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="i3HwclaHCyX3nu9L8ep4-24" value="&lt;div&gt;Show error message&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-776" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
